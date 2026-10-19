@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.class
+build/
+out/
+dist/
+target/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local/private material
+GUIA_PORTFOLIO.md
+PERFIL_README.md
